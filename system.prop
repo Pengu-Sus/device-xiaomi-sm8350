@@ -4,6 +4,9 @@ vendor.bluetooth.soc=hastings
 # Charger
 ro.charger.enable_suspend=true
 
+# Display
+debug.cpurend.vsync=false
+
 # Graphics
 debug.sf.disable_backpressure=1
 
